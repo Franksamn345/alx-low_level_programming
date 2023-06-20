@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * _islower - Entry point into the code
- * Description: prints "_putchar" to the stdout
+ * lowercase character. Another cases, shows
+ * 0
  * Return: 0 (successfull)
  * @c: The character in ASCII code
  */
