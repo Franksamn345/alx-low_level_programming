@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *  * main: Entry point into the code
- *   * Description: prints "_putchar" to the stdout
- *    * Return 0 (successfull)
- *     */
+ * print_alphabet- Entry point into the code
+ * Description: prints "_putchar" to the stdout
+ * Return: 0 (successfull)
+ */
 void print_alphabet(void)
 {
 	int i;

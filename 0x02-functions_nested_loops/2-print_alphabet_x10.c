@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *  * main: Entry point into the code
- *   * Description: prints "_putchar" to the stdout
- *    * Return 0 (successfull)
- *     */
+ * print_alphabet_x10- Entry point into the code
+ * Description: prints "_putchar" to the stdout
+ * Return 0 (successfull)
+ */
 void print_alphabet_x10(void)
 {
 	int i;
@@ -11,7 +11,7 @@ void print_alphabet_x10(void)
 	
 	for (i = 1; i <= 10; i++)
 	{
-		for (l = 97; l<= 122; l++)
+		for (l = 97; l <= 122; l++)
 		{
 			_putchar(l);
 		}

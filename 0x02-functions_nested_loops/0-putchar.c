@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - Entry point into the code
- * Description prints _putchar to the stdout 
+ * Description: 'remove white spaces in the following codeprints _putchar to the stdout.' 
  * Return: 0 (successfull)
  */
 int main(void)

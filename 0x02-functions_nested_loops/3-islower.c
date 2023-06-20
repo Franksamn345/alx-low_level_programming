@@ -1,12 +1,13 @@
 #include "main.h"
 /**
- *  * main: Entry point into the code
- *   * Description: prints "_putchar" to the stdout
- *    * Return 0 (successfull)
- *     */
+ * _islower - Entry point into the code
+ * Description: prints "_putchar" to the stdout
+ * Return: 0 (successfull)
+ * @c: The character in ASCII code
+ */
 int _islower(int c)
 {
-	if(c >= 97 && c >= 122)
+	if (c >= 97 && c >= 122)
 	{
 		return (1);
 	}
