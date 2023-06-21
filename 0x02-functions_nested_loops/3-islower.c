@@ -1,9 +1,10 @@
 #include "main.h"
 /**
  * _islower - Entry point into the code
- * lowercase character. Another cases, shows
- * Return: lowercase character,0 Another cases, shows 
+ *
  * @c: The character in ASCII code
+ *
+ * Return: lowercase character
  */
 int _islower(int c)
 {
