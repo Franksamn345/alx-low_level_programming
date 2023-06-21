@@ -2,8 +2,7 @@
 /**
  * _islower - Entry point into the code
  * lowercase character. Another cases, shows
- * 0
- * Return: 0 (successfull)
+ * Return: lowercase character,0 Another cases, shows 
  * @c: The character in ASCII code
  */
 int _islower(int c)
