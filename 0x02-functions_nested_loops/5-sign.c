@@ -1,11 +1,13 @@
 #include "main.h"
 /**
  * print_sign - Entry point into the code
- * Greater, equals,less than,zero 
- * Return: 1 is greater than zero, zero is 
- * -1 is graeter than zero 
+ *
  * @n: The character in ASCII code
+ *
+ * Return: 1 is greater than zero, zero is
+ *
  */
+
 int print_sign(int n)
 {
 	if (n > 0)
